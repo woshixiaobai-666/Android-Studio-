@@ -2,7 +2,8 @@
 方法一：
 一款对新手友好的汉化插件，适配版本范围广，从IDEA中更改路径即可
 前提是你用idea里面有Chinese这个汉化插件
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12f0a0a7-9045-40a1-9161-aadc7946ecbc" />
+<img width="1229" height="918" alt="image" src="https://github.com/user-attachments/assets/b4dadf0d-d1eb-481f-9341-2003eb8d796e" />
+
 
 先找到idea的插件安装目录进入
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e531128a-9a12-4cb1-a237-1895ec235307" />
