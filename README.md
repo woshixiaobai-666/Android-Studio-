@@ -11,6 +11,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1caa064a-545e-4d66-9bff-cdfa3af2b721" />
 这个就是idea的捆绑汉化包，同理
 只要将这个汉化包复制到Android Studio目录下的plugins目录下，启动Android Studio
+
+
 方法二 ：
 没有的话可以跳转到https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----/versions
 注意一定要选择自己适配的版本，中间那个就是能兼容的版本
